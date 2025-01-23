@@ -22,7 +22,7 @@ elif koloro == "oranĝa":
 elif koloro == "flava":
   print("Ĉi tiu koloro estas aĉa.")
 elif koloro == "verda":
-  print("Verda - la koloro de fungoj - ĝi estas naŭza!")
+  print("Verda - la koloro de Esperanto - ĝi estas bonega!")
 elif koloro == "blua":
   print("Ĉi tiu koloro estas aĉa.")
 elif koloro == "violkolora":
